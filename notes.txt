@@ -1,0 +1,6 @@
+ternary operator
+List - Map - Set
+Loops
+----
+moduls
+split
