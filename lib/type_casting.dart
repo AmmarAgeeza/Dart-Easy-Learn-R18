@@ -1,5 +1,5 @@
-void main(){
-    //!type casting
+void main() {
+  //!type casting
   // int x = 10;
   // print(x.toDouble());
   // double y = 10.7;
@@ -8,4 +8,7 @@ void main(){
   // String numberString = number.toString();
   // String numberasString = "20.5";
   // int numberFromString = double.parse(numberasString).toInt();
+  // ----------------
+
+ 
 }

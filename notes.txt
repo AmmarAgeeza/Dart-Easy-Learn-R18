@@ -1,6 +1,8 @@
 ternary operator
 List - Map - Set
 Loops
+Functions
 ----
 moduls
 split
+~

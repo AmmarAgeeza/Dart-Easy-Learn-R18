@@ -32,7 +32,8 @@ void main() {
 
   //! if else if
 
-  //   int day = 13;
+    int day = 13;
+  
   //   if (day == 1) {
   //     print("SAT");
   //   }
@@ -59,24 +60,36 @@ void main() {
 
   //!Switch - case
 
-  int day = 1;
-  switch (day) {
-    case 1:
-      print("SAt");
+  // int day = 1;
+  // switch (day) {
+  //   case 1:
+  //     print("SAt");
 
-    case 2:
-      print("Sun");
-    case 3:
-      print("Mon");
-    case 4:
-      print("Tue");
-    case 5:
-      print("Wed");
-    case 6:
-      print("Thr");
-    case 7:
-      print("Fri");
-    default:
-      print("invalid");
+  //   case 2:
+  //     print("Sun");
+  //   case 3:
+  //     print("Mon");
+  //   case 4:
+  //     print("Tue");
+  //   case 5:
+  //     print("Wed");
+  //   case 6:
+  //     print("Thr");
+  //   case 7:
+  //     print("Fri");
+  //   default:
+  //     print("invalid");
+  // }
+
+  int age = 20;
+  if (age >= 18) {
+    //false
+    print("adult");
+    print("");
+  } else {
+    print("minor");
   }
+  //! ternary operator
+  //! condition ? code if true : code if false;
+  age >= 18  ? print("adult") : print("minor");
 }
