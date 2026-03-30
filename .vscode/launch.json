@@ -7,9 +7,9 @@
     {
       "name": "easy_learn_dart_r18",
       "request": "launch",
-      "type": "dart"
+      "type": "dart",
       // "console": "debugConsole"
-      //   "console": "terminal"
+      "console": "terminal"
     }
   ]
 }

@@ -1,8 +1,4 @@
-ternary operator
-List - Map - Set
-Loops
-Functions
-----
-moduls
-split
-~
+mapping in list =>> .map
+generate list contains 5 random numbers
+arrow func
+record
