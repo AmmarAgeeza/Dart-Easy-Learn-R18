@@ -2,3 +2,5 @@ mapping in list =>> .map
 generate list contains 5 random numbers
 arrow func
 record
+-----
+inhertance vs composition
