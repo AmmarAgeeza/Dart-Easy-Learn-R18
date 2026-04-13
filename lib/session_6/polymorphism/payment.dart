@@ -14,18 +14,19 @@ void main() {
   pay(Cash());
 }
 
-class Payment {
+abstract class Payment {
   void pay() {
     print("Payment");
   }
 }
 
 //Depit
-class DepitCard extends Payment {
+class DepitCard implements Payment {
   @override
   void pay() {
-    print("DepitCard");
+    // TODO: implement pay
   }
+
 }
 
 // Wallet
